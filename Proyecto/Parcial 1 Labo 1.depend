@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1625432964 source:c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\main.c
+	"Controller.h"
+
+1625453070 source:c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\sbycycle.c
+	"sBycycle.h"
+
+1625452690 source:c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\sservice.c
+	"sService.h"
+
+1625350055 source:c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\comparison.c
+	"Comparison.h"
+
+1625350055 c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\comparison.h
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdio.h>
+
+1625426524 source:c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\date.c
+	"Date.h"
+
+1625296688 c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\date.h
+	<stdio.h>
+	<stdlib.h>
+
+1625270738 source:c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\input.c
+	"Input.h"
+
+1623431832 c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\input.h
+	"Text.h"
+
+1625299261 c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\text.h
+	"Comparison.h"
+
+1625452028 c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\controller.h
+	"sService.h"
+	"sOwner.h"
+	"sWork.h"
+	"sBycycle.h"
+	"Vector.h"
+	"Input.h"
+	"Ui.h"
+
+1625296688 c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\sservice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625296712 c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\swork.h
+	"Date.h"
+
+1625343849 c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\sbycycle.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625444958 c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\vector.h
+	<stdlib.h>
+	<string.h>
+
+1625279215 c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\ui.h
+	"Input.h"
+
+1625453632 source:c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\swork.c
+	"sWork.h"
+
+1625299146 source:c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\text.c
+	"Text.h"
+
+1625279172 source:c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\ui.c
+	"Ui.h"
+
+1625454790 source:c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\vector.c
+	"Vector.h"
+
+1625434546 source:c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\controller.c
+	"Controller.h"
+
+1625427841 source:c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\sowner.c
+	"sOwner.h"
+
+1625427841 c:\users\lucas\desktop\curso programacion\labo y prog 1\ejercicios\parcial 1 labo 1\sowner.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
